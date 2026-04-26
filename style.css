@@ -1,0 +1,56 @@
+.signIn_Box {
+  width: 350px;
+  padding: 20px;
+  border-radius: 5px;
+  box-shadow: 0px 0px 10px 0px rgb(8, 8, 8);
+}
+
+.signIn_Body {
+  background-image: url("resources/posterimg2.jpg"); 
+  background-size: cover;
+  margin-left: 100vh;
+  display: flex;
+  justify-content: center;
+  height: 100vh;
+  align-items: center;
+}
+
+.padded {
+  padding-left: 21px;
+}
+
+.signUp_Box {
+  width: 400px;
+  padding: 20px;
+  border-radius: 10px;
+  box-shadow: 0px 0px 20px 0px rgb(14, 13, 13);
+}
+
+.AdminSignInBody {
+  background-image: url("resources/background-body.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  margin-left: 100vh;
+
+  display: flex;
+  justify-content: center;
+  height: 100vh;
+  align-items: center;
+}
+
+.adminSignIn_Box {
+  width: 350px;
+  padding: 10px;
+  border-radius: 6px;
+  box-shadow: 0px 0px 10px 0px rgb(13, 13, 14);
+  /* background-color: rgb(234, 113, 239); */
+}
+
+.adminBody {
+  display: flex;
+  justify-content: center;
+  height: 100vh;
+  align-items: center;
+}
+
+
